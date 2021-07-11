@@ -1,6 +1,19 @@
-# The-first-problem
+# The Book Of All
 
-Hi humans!
+Hi Humans!
 
-I am @TheRobotCodingMan! I like to wonder, and that's the reason I met Github. All I can say is I am a beginner!
-And please if you have concern about this project, add an pull request immediately! Thanks for coming again!
+This project is really called SmallWiki (Because you will not find many information there). I started doing this website before I met Github. Thanks for coming here at my project, because you are supporting us 💖. And if you got problems or request, let us know! 😁
+
+Updates 👨‍💻 (Pages, blogs, and others)
+
+- Japan wiki (1)
+- Homepage (2)
+
+Future Updates 👨‍💻🔮 (Pages, blogs, and others)
+
+- Space (1)
+- Music (2)
+- Earth (3)
+
+
+**Note: This is still in development, so we will update this project every 9 days**
