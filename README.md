@@ -1,2 +1,3 @@
-# The-book-of-all
-A dictionary that is still in development... 
+readme-edits
+# The Book Of All
+
