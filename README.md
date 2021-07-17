@@ -1,21 +1,18 @@
 # The Book of All
 
+## Intro
+
 Hi Humans!
 
 Thanks for coming here to my project! 😉
 
-This project is really called SmallWiki (Because you will not find any information there). I started doing this website before I met Github. Thanks for coming here to my project, again *1*. because you are supporting us 💖. And if you got problems or requests, let us know! 😁
+This project is really called SmallWiki (Because you will not find any information there). I started doing this website before I met Github. Thanks for coming here to my project, again *1*. because you are supporting us 💖. And if you got problems or requests, let us know! 😁 So we can improve our website! And wait for some months/years. 🤔 Because we will show our website to the public! 📢📢
 
-This is the table of our updated schedule 🗓️
-
-| Name | Date |
-| ------------- | ------------- |
-| Update all the things in this repository | July 14, 2021 / Wednesday ✅ |
-| Add more things in the page *Japan Wiki*  | July 23, 2021 / Friday |
+## Others
 
 Updates 👨‍💻 (Pages, blogs, and others)
 
-- Japan wiki (1)
+- Japan wiki (Not finish)(1)
 - Homepage (2)
 
 Future Updates 👨‍💻🔮 (Pages, blogs, and others)
@@ -30,9 +27,12 @@ These are our goals 🎯
 - [x] Add a license file
 - [x] Edit desription of this repository
 - [x] Update repository
-- [ ] Add website's files
+- [ ] Add some of the website's files
+- [ ] Solve issues
+- [ ] Add website's screenshots
+
+**`Before you go away, please say something! ☺️ Because comments can help us make the website more beautiful. 💖`**
 
 
-
-**Note: This is still in development, so we will update this project every 9 days** <br/>
-**1: Hehe... I said it again...**
+**Note: We will add some updates in 7 or irregular days** <br/>
+**1: I said it again... 😅**
