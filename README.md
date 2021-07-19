@@ -8,7 +8,16 @@ Thanks for coming here to my project! 😉
 
 This project is really called SmallWiki (Because you will not find any information there). I started doing this website before I met Github. Thanks for coming here to my project, again *1*. because you are supporting us 💖. And if you got problems or requests, let us know! 😁 So we can improve our website! And wait for some months/years. 🤔 Because we will show our website to the public! 📢📢
 
-## Others
+## Schedule
+
+This is the table of our update schedule 🗓️
+
+| Name | Date |
+| ------------- | ------------- |
+| Update all the things in this repository | July 14, 2021 / Wednesday |
+| Add more things in the page *Japan Wiki*  | July 21, 2021 / Friday |
+
+## Notes, Goals, and Updates
 
 Updates 👨‍💻 (Pages, blogs, and others)
 
@@ -34,5 +43,7 @@ These are our goals 🎯
 **`Before you go away, please say something! ☺️ Because comments can help us make the website more beautiful. 💖`**
 
 
-**Note: We will add some updates in 7 or irregular days** <br/>
+**We will add some updates in 7 or irregular days** <br/>
+**This is the sixth update of our Readme.md. If you want to know all changes.**
 **1: I said it again... 😅**
+
