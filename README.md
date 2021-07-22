@@ -36,9 +36,19 @@ These are our goals 🎯
 - [x] Add a license file
 - [x] Edit desription of this repository
 - [x] Update repository
-- [ ] Add some of the website's files
+- [x] Add some of the website's files
+- [x] Add website's screenshots
 - [ ] Solve issues
-- [ ] Add website's screenshots
+
+This are the sreenshots of our website:
+
+![image](https://user-images.githubusercontent.com/87217827/126609987-74d55812-fa3a-4e52-afaf-1870e6976151.png)
+
+![image](https://user-images.githubusercontent.com/87217827/126610200-3484147d-29c6-439a-8b22-2272857f2a37.png)
+
+![image](https://user-images.githubusercontent.com/87217827/126610245-6a0ac872-8b21-4f40-a993-6a4ae47e05b9.png)
+
+![image](https://user-images.githubusercontent.com/87217827/126610276-d387b73d-9c35-4bf4-ab7c-b322198d81fc.png)
 
 **`Before you go away, please say something! ☺️ Because comments can help us make the website more beautiful. 💖`**
 
@@ -46,4 +56,5 @@ These are our goals 🎯
 **We will add some updates in 7 or irregular days** <br/>
 **[This is the sixth update of our Readme.md. If you want to know all changes, please go here.](https://bit.ly/3iR9dcD)** <br/>
 **1: I said it again... 😅**
+
 
