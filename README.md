@@ -44,6 +44,6 @@ These are our goals 🎯
 
 
 **We will add some updates in 7 or irregular days** <br/>
-**This is the sixth update of our Readme.md. If you want to know all changes.**
+**[This is the sixth update of our Readme.md. If you want to know all changes, please go here.](https://bit.ly/3iR9dcD)** <br/>
 **1: I said it again... 😅**
 
