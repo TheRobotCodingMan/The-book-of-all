@@ -1,3 +1,4 @@
+
 # The Book of All
 
 ## Intro
@@ -51,11 +52,15 @@ This are the sreenshots of our website:
 
 ![image](https://user-images.githubusercontent.com/87217827/126610276-d387b73d-9c35-4bf4-ab7c-b322198d81fc.png)
 
+![Screenshot_5](https://user-images.githubusercontent.com/87217827/131242580-65bb3bdf-137f-41d7-bd88-61b0f4377e16.png)
+
+![Screenshot_6](https://user-images.githubusercontent.com/87217827/131242585-6601a227-1d46-4f05-918f-4eb55a560372.png)
+
 **`Before you go away, please say something! ☺️ Because comments can help us make the website more beautiful. 💖`**
 
 
 **We will add some updates in 7 days or 1 week** <br/>
-**[This is the seventh update of our Readme.md. If you want to know all changes, please go here.](https://bit.ly/3BjJUHD)** <br/>
+**[This is the seventh update of our Readme.md. If you want to know all changes, please go here.](https://bit.ly/2WDkgid)** <br/>
 **1: I said it again... 😅**
 
 
