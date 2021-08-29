@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>SmallWiki</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="Wikipedia, wikipedia, search something, anything, all, wiki, Wiki, search, smallwiki, SmallWiki, Home, home, homepaage, HomePage, Homepage, Page, page">
+  <meta name="author" content="Chadrick Dela Cruz">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/cb00393d89.js" crossorigin="anonymous"></script>
+</head>
+<style>
+  body {
+    background-color: #1d1135;
+  }
+  h1 {
+    font-family: 'Raleway', sans-serif;
+    color: #0c164f;
+    font-size: 55px;
+  }
+  h2 {
+    font-family: 'Oswald', sans-serif;
+    color: #3dc1fc;
+    font-size: 31px;
+    border-style: dashed double solid groove;
+    border-width: 10px;
+    padding: 10px;
+  }
+  p.text {
+    font-family: 'Quicksand', sans-serif;
+    color: #fcfbfe;
+    border-left: 6px solid red;
+    background-color: Grey;
+    padding: 9px;
+    font-size: 25px;
+  }
+  p.big {
+    font-size: 35px;
+    font-family: 'Quicksand', sans-serif;
+    color: #edc615;
+  }
+  a:link {
+    color: #5643fd;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: #d1f27c;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #47fdc7;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:active {
+    color: #fcfbfe;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  header {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/447px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+  }
+  section {
+    display: -webkit-flex;
+    display: flex;
+  }
+  @media (max-width: 600px) {
+    section {
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+  }
+  nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #377586;
+    padding-left: 17px;
+    padding-top: 5px;
+    padding-right: 6px;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 5px;
+    font-family: 'Quicksand', sans-serif;
+    color: #33d2ec;
+  }
+  article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #ffce09;
+    padding: 15px;
+  }
+  footer {
+    background-color: #2f3033;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+  }
+  * {
+    box-sizing: border-box;
+  }
+
+  #myInput {
+    background-image: url('/css/searchicon.png');
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+  }
+
+  #myUL {
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+  }
+
+  #myUL li a {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block
+  }
+
+  #myUL li a:hover:not(.header) {
+    background-color: #eee;
+  }
+</style>
+<body>
+  <header>
+    <h1 style="color:black;">SmallWiki</h1>
+	<p class="big">Hello guys! This is a wikipedia that is starting to grow. And that's the reason why we are called <b>SmallWiki</b>. I hope you enjoy our free wikipedia! <span style='font-size:30px;'>&#128512;</span>
+</p>
+  </header>
+  <section>
+  <nav>
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for articles.." title="Type anything!">
+
+  <ul id="myUL">
+    <li><a href="#">Home Page</a></li>
+    <li><a href="#">WHO</a></li>
+
+    <li><a href="#">Earth</a></li>
+    <li><a href="#">Space</a></li>
+
+    <li><a href="#">Moon</a></li>
+    <li><a href="#">Sports</a></li>
+    <li><a href="file:///F:/chadrick/coding/notes%20and%20others/HTML%20and%20CSS/projects/Japan%20-%20SmallWiki.htm">Japan</a></li>
+  <ul>
+    <br>
+    <br>
+    <script>
+  function myFunction() {
+      var input, filter, ul, li, a, i, txtValue;
+      input = document.getElementById("myInput");
+      filter = input.value.toUpperCase();
+      ul = document.getElementById("myUL");
+      li = ul.getElementsByTagName("li");
+      for (i = 0; i < li.length; i++) {
+          a = li[i].getElementsByTagName("a")[0];
+          txtValue = a.textContent || a.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+              li[i].style.display = "";
+          } else {
+              li[i].style.display = "none";
+          }
+      }
+  }
+  </script>
+  </nav>
+  <article>
+  <h1>Home</h1><br>
+  <h2>About This Website</h2>
+  <p class="text">Hi! My website is just written in HTML, CSS, and a litle JavaScript. It's publish a few weeks ago. AND PLEASE DON'T COPY THE HTML CODE TO MAKE A WEBSITE THAT REALLY LOOK LIKE MY WEBSITE <span style='font-size:30px;'>&#128683;</span><span style='font-size:30px;'>&#128683;</span>! Only for inspection <span style='font-size:30px;'>&#128110;</span>. Because I made this website with sweat and hard work. Thank you again for visiting this website! <span style="font-size: 30px; color: yellow;"><i class="far fa-grin-beam"></i></span></p>
+  </article>
+  </section>
+
+  <footer>
+  <p><b>Extra information...</b></p>
+  </footer>
+
+</body>
+</html>
