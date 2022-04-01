@@ -12,6 +12,10 @@ https://smallwiki.netlify.app
 It's still a prototype one, but you can explore it!
 
 
+
+**NOTE: THE SCREENSHOTS MAY NOT BE LIKE THE INTERFACE OF THE WEBSITE**
+
+
 ## Schedule
 
 This is the table of our update schedule 🗓️
@@ -64,6 +68,5 @@ This are the sreenshots of our website:
 
 **We will add some updates in 7 days or 1 week** <br/>
 **[This is the eigth major update of our Readme.md. If you want to know all changes, please go here.](https://bit.ly/2WDkgid)** <br/>
-**1: I said it again... 😅**
 
 
