@@ -63,7 +63,7 @@ This are the sreenshots of our website:
 
 
 **We will add some updates in 7 days or 1 week** <br/>
-**[This is the seventh update of our Readme.md. If you want to know all changes, please go here.](https://bit.ly/2WDkgid)** <br/>
+**[This is the eigth major update of our Readme.md. If you want to know all changes, please go here.](https://bit.ly/2WDkgid)** <br/>
 **1: I said it again... 😅**
 
 
