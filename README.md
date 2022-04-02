@@ -7,7 +7,7 @@ Hi Humans!
 
 Thanks for coming here to my project! 😉
 
-This project is really called SmallWiki (Because you will not find any information there). I started doing this website before I met Github. Thanks for coming here to my project, again *1*. because you are supporting us 💖. And if you got problems or requests, let us know! 😁 So we can improve our website! And, hey! We have our website now! Click here:
+This project is really called SmallWiki (Because you will not find much information there). I started doing this website before I met Github. Thanks for coming here to my project, again *1*. because you are supporting us 💖. And if you got problems or requests, let us know! 😁 So we can improve our website! And, hey! We have our website now! Click here:
 https://smallwiki.netlify.app
 It's still a prototype one, but you can explore it!
 
