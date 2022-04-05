@@ -7,7 +7,14 @@ Hi Humans!
 
 Thanks for coming here to my project! 😉
 
-This project is really called SmallWiki (Because you will not find any information there). I started doing this website before I met Github. Thanks for coming here to my project, again *1*. because you are supporting us 💖. And if you got problems or requests, let us know! 😁 So we can improve our website! And wait for some months/years. 🤔 Because we will show our website to the public! 📢📢
+This project is really called SmallWiki (Because you will not find much information there). I started doing this website before I met Github. Thanks for coming here to my project, again *1*. because you are supporting us 💖. And if you got problems or requests, let us know! 😁 So we can improve our website! And, hey! We have our website now! Click here:
+https://smallwiki.netlify.app
+It's still a prototype one, but you can explore it!
+
+
+
+**NOTE: THE SCREENSHOTS MAY NOT BE LIKE THE INTERFACE OF THE WEBSITE. THE SPACE WEBPAGE IS CURRENTLY FOR SELF-DEVELOPMENT UNTIL FURTHER NOTICE.**
+
 
 ## Schedule
 
@@ -15,16 +22,15 @@ This is the table of our update schedule 🗓️
 
 | Name | Date |
 | ------------- | ------------- |
-| Update all the things in this repository | August 28, 2021 / Wednesday |
-| Add more things in the page *Japan Wiki* and *Space* | September 4, 2021 / Friday |
+| Add more things in the page *Japan Wiki* and *Space* | April 1 to 10 |
 
 ## Notes, Goals, and Updates
 
-Updates 👨‍💻 (Pages, blogs, and others)
+Updates 👨‍💻 (Pages, blogs, and others)(Only Major)
 
 - Japan wiki (Not finish)(1)
-- Homepage (2)
-- Space (Not finish)(1)
+- Space (Not finish)(2)
+- Homepage (3)
 
 Future Updates 👨‍💻🔮 (Pages, blogs, and others)
 
@@ -41,6 +47,7 @@ These are our goals 🎯
 - [x] Add some of the website's files
 - [x] Add website's screenshots
 - [ ] Solve issues
+- [ ] Make it even more interesting!
 
 This are the sreenshots of our website:
 
@@ -60,7 +67,5 @@ This are the sreenshots of our website:
 
 
 **We will add some updates in 7 days or 1 week** <br/>
-**[This is the seventh update of our Readme.md. If you want to know all changes, please go here.](https://bit.ly/2WDkgid)** <br/>
-**1: I said it again... 😅**
-
+**[This is the eigth major update of our Readme.md. If you want to know all changes, please go here.](https://bit.ly/2WDkgid)** <br/>
 
