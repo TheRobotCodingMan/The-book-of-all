@@ -7,7 +7,7 @@ Hi Humans!
 
 Thanks for coming here to my project! 😉
 
-This project is really called SmallWiki (Because you will not find much information there). I started doing this website before I met Github. Thanks for coming here to my project, again *1*. because you are supporting us 💖. And if you got problems or requests, let us know! 😁 So we can improve our website! And, hey! We have our website now! Click here:
+This project is really called SmallWiki (Because you will not find much information there). I started doing this website before I met Github. Thanks for coming here to my project, again. because you are supporting us 💖. And if you got problems or requests, let us know! 😁 So we can improve our website! And, hey! We have our website now! Click here:
 https://smallwiki.netlify.app
 It's still a prototype one, but you can explore it!
 
@@ -22,7 +22,7 @@ This is the table of our update schedule 🗓️
 
 | Name | Date |
 | ------------- | ------------- |
-| Add more things in the page *Japan Wiki* and *Space* | April 1 to 10 |
+| Finishing the page *Japan Wiki*| April 8 to 25|
 
 ## Notes, Goals, and Updates
 
