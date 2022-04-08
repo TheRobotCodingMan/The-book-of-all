@@ -22,7 +22,15 @@
   padding: 10px;
   background: #787878;
 }
-#li1 {
+#ol1 {
+  font-family: 'Quicksand', sans-serif;
+  border-style: dashed double solid dotted;
+  border-width: medium;
+  border-color: black;
+  padding: 10px;
+  background: #787878;
+}
+.li1 {
   margin: 20px;
 }
 body {
@@ -250,8 +258,19 @@ function myFunction() {
 
 <article>
 <h1>Japan</h1><br>
-<h2>First Definition Entry</h2>
-<h3>Introduction & Quick Facts</h3><br>
+<h2>Bookmarks</h2><br><br><br>
+
+<p class="text">The links below are bookmarks, so that you will not spend your time scrolling down the webpage. BMs are called for the bookmark's hrefs.</p>
+<ol id="ol1">
+  <li class="li1"><a href="#BM1">Jump to the First Definition Entry</a></li>
+  <li class="li1"><a href="#BM2">Jump to Introduction & Quick Facts</a></li>
+  <li class="li1"><a href="#BM3">Jump to Land</a></li>
+  <li class="li1"><a href="#BM4">Jump to Relief</a></li>
+  <li class="li1"><a href="#BM5">Jump to Geologic framework</a></li>
+</ol>
+  
+<h2 id="BM1">First Definition Entry</h2><br>
+<h3 id="BM2">Introduction & Quick Facts</h3><br>
 
 <p class="text">Japan, the island country lying off the east coast of Asia. It consists of a great string of islands in a northeast-southwest arc that stretches
 for approximately 1,500 miles (2,400 km) through the western North Pacific Ocean. Nearly the entire land area is taken up by the country’s four main islands;
@@ -280,9 +299,8 @@ population, heavy industrialization, and environmental pollution.<br><br><br>
   sources. Contact with China and Korea in the early centuries CE brought profound changes to Japan, including the Chinese writing system, Buddhism, and many artistic
   forms from the continent. The first steps at political unification of the country occurred in the late 4th and early 5th centuries CE under the Yamato court. A great
   civilization then developed first at Nara in the 8th century and then at Heian-kyō (now Kyōto) from the late 8th to the late 12th century. The seven centuries
-  thereafter were a period of domination by military rulers culminating in near isolation from the outside world from the early 17th to the mid-19th century.
-<br></p>
-<p class="text">The reopening of the country ushered in contact with the West and a time of unprecedented change. Japan sought to become a modern industrialized nation
+  thereafter were a period of domination by military rulers culminating in near isolation from the outside world from the early 17th to the mid-19th century.<br>
+  The reopening of the country ushered in contact with the West and a time of unprecedented change. Japan sought to become a modern industrialized nation
   and pursued the acquisition of a large overseas empire, initially in Korea and China. By late 1941 this latter policy caused direct confrontation with the United
   States and its allies and to defeat in World War II (1939–45). Since the war, however, Japan’s spectacular economic growth—one of the greatest of any nation in that
   period—brought the country to the forefront of the world economy. It now is one of the world’s foremost manufacturing countries and traders of goods and
@@ -290,7 +308,7 @@ population, heavy industrialization, and environmental pollution.<br><br><br>
   <br>
 </p>
 <br>
-<h3>Land</h3>
+<h3 id="BM3">Land</h3>
 <br>
 <p class="text">Japan is bounded to the west by the Sea of Japan (East Sea), which separates it from the eastern shores of South and North Korea and
   southeastern Siberia (Russia); to the north by La Perouse (Sōya) Strait, separating it from Russian-held Sakhalin Island, and by the Sea of Okhotsk; to
@@ -299,7 +317,7 @@ population, heavy industrialization, and environmental pollution.<br><br><br>
   Korea and defines the Korea Strait on the Korean side and the Tsushima Strait on the Japanese side.
   </p>
 <br>
-<h3>Relief</h3>
+<h3 id="BM4">Relief</h3>
 <br>
 <p class="text">The mountainous character of the country is the outcome of orogenic (mountain-building) forces largely during Quaternary time 
   (roughly, the past 2.6 million years), as evidenced by the frequent occurrence of violent earthquakes, volcanic activity, and signs of 
@@ -317,11 +335,11 @@ population, heavy industrialization, and environmental pollution.<br><br><br>
 <br>
 <p class="text">Below are the <b>legend</b> of the picture</p>
   <ul id="ul1">
-    <li id="li1"><span style="color:#66ff33;">Green</span> for Tree Cover</li>
-    <li id="li1"><span style="color:#f2f954;">Yellow</span> for Agricultural Land</li>
-    <li id="li1"><span style="color:#ff3333;">Red</span> for Urban Areas</li>
-    <li id="li1"><span style="color:#b8ff33;">Lime</span> for Greenland</li>
-    <li id="li1"><span style="color:#33adff;">Blue</span> for Water</li>
+    <li class="li1"><span style="color:#66ff33;">Green</span> for Tree Cover</li>
+    <li class="li1"><span style="color:#f2f954;">Yellow</span> for Agricultural Land</li>
+    <li class="li1"><span style="color:#ff3333;">Red</span> for Urban Areas</li>
+    <li class="li1"><span style="color:#b8ff33;">Lime</span> for Greenland</li>
+    <li class="li1"><span style="color:#33adff;">Blue</span> for Water</li>
   </ul>
   <br>
 </p>
@@ -338,7 +356,7 @@ The mountains are divided into many small land blocks that are separated by lowl
   been overlain with volcanic ash, as in the Kantō and Tokachi plains.
   </p>
 <br>
-<h3>Geologic framework</h3>
+<h3 id="BM5">Geologic framework</h3>
 <br>
 <p class="text">Japan is one of the world’s most geologically unstable areas. The country experiences some 1,000 tremors annually, most of 
     them minor, though major quakes—as in Tokyo-Yokohama in 1923 and Kōbe in 1995—cause considerable loss of life and widespread destruction. 
